@@ -11,3 +11,4 @@ a=10
 echo 'a is $a';
 echo "a is $a";
 echo "it is a $a$s"
+echo "it is a $a\$s";
