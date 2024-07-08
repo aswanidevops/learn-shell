@@ -1,5 +1,5 @@
 echo -e "Hello\nWorld"
-echo -e "Hello\t\t\nWorld"
+echo -e "Hello\t\tWorld"
 #single quotes
 #double quotes
 
