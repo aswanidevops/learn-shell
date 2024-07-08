@@ -14,5 +14,3 @@ echo "it is a $a$s"
 echo "it is a $a\$s";
 echo "it is a value $a";
 \*\*\*\*
-\*****
-****
