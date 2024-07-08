@@ -4,4 +4,4 @@ echo -e "Hello\nWorld"
 #double quotes
 
 echo '*';
-echo "*";
+echo "*"
