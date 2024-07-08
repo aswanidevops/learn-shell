@@ -5,3 +5,8 @@ echo -e "Hello\t\tWorld"
 
 echo '*'
 echo "*"
+#single quotes are literal quotes
+#double quotes are liberal quotes less strict quotes
+a=10
+echo 'a is $a';
+echo "a is $a";
