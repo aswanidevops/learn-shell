@@ -9,7 +9,6 @@ i=10
   while [ $i -gt 0 ];do
      echo hello-$i
      i=$(($i-1))
-     sleep 2
   done
 for i in apple banana mango;do
   echo each fruit names are-$i
