@@ -15,3 +15,9 @@ for i in apple banana mango;do
   echo each fruit names are-$i
   sleep 1
 done
+
+items=$(cat file)
+for i in $items;do
+  echo fruit names-$i
+  sleep 3
+done
