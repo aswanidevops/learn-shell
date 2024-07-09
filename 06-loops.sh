@@ -13,5 +13,5 @@ i=10
   done
 for i in apple banana mango;do
   echo each fruit names are-$i
-  sleep1
+  sleep 1
 done
